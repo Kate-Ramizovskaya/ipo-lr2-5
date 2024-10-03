@@ -1,5 +1,4 @@
 import math
-area = float
 a = float(input("Введите длину основания a: "))
 b = float(input("Введите длину основания b: "))
 c = float(input("Введите длину боковой стороны c: "))
